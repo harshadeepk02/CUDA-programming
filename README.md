@@ -4,4 +4,4 @@ Repository for a variety of algorithms parallelized using CUDA programming and b
 - Parallel Exclusive Prefix Sum (Scan)
 - Parallel Radix Sort
 - GPU-Accelerated N-Body Simulation (not Barnes-Hut)
-- Convolutions Across 1D and 2D Arrays
+- Convolutions Across Arrays
